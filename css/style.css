@@ -821,14 +821,6 @@ header nav .form {
   border-color: var(--main-color);
 }
 
-.testimonials-skills .skills {
-  /* border: 2px solid red; */
-}
-
-.testimonials-skills .skills .prog-holders {
-  /* border: 2px solid red; */
-}
-
 .testimonials-skills .skills .prog-holder {
   margin-bottom: 40px;
 }
@@ -937,8 +929,8 @@ header nav .form {
 .pricing {
   padding: 100px 0;
 }
-.pricing .container {
-}
+/* .pricing .container {
+} */
 
 .pricing .plans {
   display: grid;
